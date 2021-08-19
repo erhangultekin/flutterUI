@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-UI AND UX DESIGN
+UI/UX DESIGN
 
 ## Getting Started
 
